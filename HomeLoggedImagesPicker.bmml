@@ -5,7 +5,7 @@
         <text>A%20Web%20Page%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="791" y="369" w="218" h="508" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="791" y="369" w="218" h="500" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="854" y="425" w="-1" h="-1" measuredW="85" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Space%20for%20Ads</text>
@@ -298,8 +298,6 @@
         </control>
         <control controlID="39" controlTypeID="com.balsamiq.mockups::Link" x="0" y="532" w="-1" h="-1" measuredW="86" measuredH="19" zOrder="39" locked="false" isInGroup="102">
           <controlProperties>
-            <href>HomeLoggedInCommentsExpanded%26bm%3BHomeLoggedInCommentsExpanded.bmml%26bm%3BHomeLoggedInCommentsExpanded.bmml%26bm%3BHomeLoggedInCommentsExpanded.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C947%2C144%2C966%22%20href%3D%22HomeLoggedInCommentsExpanded.bmml%22%20alt%3D%22HomeLoggedInCommentsExpanded%22%20id%3D%2239%22/%3E</map>
             <text>Comments%20%283%29</text>
           </controlProperties>
         </control>
@@ -310,48 +308,71 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="114" controlTypeID="__group__" x="218" y="165" w="555" h="243" measuredW="555" measuredH="243" zOrder="21" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="555" h="243" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="114"/>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="13" y="10" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="1" locked="false" isInGroup="114">
-          <controlProperties>
-            <text>Article</text>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="69" y="12" w="-1" h="-1" measuredW="44" measuredH="19" zOrder="2" locked="false" isInGroup="114">
-          <controlProperties>
-            <href>HomeLoggedImagesPicker%26bm%3BHomeLoggedImagesPicker.bmml%26bm%3BHomeLoggedImagesPicker.bmml%26bm%3BHomeLoggedImagesPicker.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22127%2C172%2C171%2C191%22%20href%3D%22HomeLoggedImagesPicker.bmml%22%20alt%3D%22HomeLoggedImagesPicker%22%20id%3D%222%22/%3E</map>
-            <text>Images</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="132" y="12" w="-1" h="-1" measuredW="33" measuredH="19" zOrder="3" locked="false" isInGroup="114">
-          <controlProperties>
-            <href>HomeLoggedInVideosPicker%26bm%3BHomeLoggedInVideosPicker.bmml%26bm%3BHomeLoggedInVideosPicker.bmml%26bm%3BHomeLoggedInVideosPicker.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22190%2C172%2C223%2C191%22%20href%3D%22HomeLoggedInVideosPicker.bmml%22%20alt%3D%22HomeLoggedInVideosPicker%22%20id%3D%223%22/%3E</map>
-            <text>Video</text>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="13" y="68" w="527" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="114"/>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="13" y="132" w="527" h="70" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="114"/>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="13" y="40" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="6" locked="false" isInGroup="114">
-          <controlProperties>
-            <text>Title</text>
-          </controlProperties>
-        </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="13" y="101" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="7" locked="false" isInGroup="114">
-          <controlProperties>
-            <text>Description</text>
-          </controlProperties>
-        </control>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::VRule" x="56" y="7" w="-1" h="27" measuredW="10" measuredH="100" zOrder="8" locked="false" isInGroup="114"/>
-        <control controlID="9" controlTypeID="com.balsamiq.mockups::VRule" x="117" y="7" w="-1" h="27" measuredW="10" measuredH="100" zOrder="9" locked="false" isInGroup="114"/>
-        <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="492" y="211" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="10" locked="false" isInGroup="114">
-          <controlProperties>
-            <text>Post</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Canvas" x="218" y="165" w="555" h="243" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="288" y="175" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Images</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Link" x="229" y="177" w="-1" h="-1" measuredW="45" measuredH="19" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>HomeLoggedIn%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2269%2C172%2C114%2C191%22%20href%3D%22HomeLoggedIn.bmml%22%20alt%3D%22HomeLoggedIn%22%20id%3D%22117%22/%3E</map>
+        <text>Articles</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Link" x="350" y="177" w="-1" h="-1" measuredW="33" measuredH="19" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>HomeLoggedInVideosPicker%26bm%3BHomeLoggedInVideosPicker.bmml%26bm%3BHomeLoggedInVideosPicker.bmml%26bm%3BHomeLoggedInVideosPicker.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22190%2C172%2C223%2C191%22%20href%3D%22HomeLoggedInVideosPicker.bmml%22%20alt%3D%22HomeLoggedInVideosPicker%22%20id%3D%22118%22/%3E</map>
+        <text>Video</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::TextInput" x="231" y="233" w="527" h="-1" measuredW="79" measuredH="26" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="231" y="205" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Label" x="231" y="266" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Files</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::VRule" x="274" y="172" w="-1" h="27" measuredW="10" measuredH="100" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::VRule" x="335" y="172" w="-1" h="27" measuredW="10" measuredH="100" zOrder="29" locked="false" isInGroup="-1"/>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Label" x="269" y="266" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Button" x="289" y="266" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="231" y="301" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>img1.jpg</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="231" y="331" w="-1" h="-1" measuredW="53" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>img2.jpg</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="231" y="361" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>img3.jpg</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::RedX" x="289" y="303" w="16" h="16" measuredW="240" measuredH="104" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::RedX" x="289" y="333" w="16" h="16" measuredW="240" measuredH="104" zOrder="36" locked="false" isInGroup="-1"/>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::RedX" x="289" y="363" w="16" h="16" measuredW="240" measuredH="104" zOrder="37" locked="false" isInGroup="-1"/>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Button" x="710" y="369" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Post</text>
+      </controlProperties>
     </control>
   </controls>
 </mockup>
