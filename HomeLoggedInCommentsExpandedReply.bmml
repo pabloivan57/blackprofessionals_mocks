@@ -374,7 +374,8 @@
         </control>
         <control controlID="59" controlTypeID="com.balsamiq.mockups::Link" x="190" y="560" w="-1" h="-1" measuredW="33" measuredH="19" zOrder="58" locked="false" isInGroup="107">
           <controlProperties>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22246%2C975%2C279%2C994%22%20href%3D%22HomeLoggedIn.bmml%22%20alt%3D%22HomeLoggedIn%22%20id%3D%2259%22/%3E</map>
+            <href>HomeLoggedInCommentsExpandedReply%26bm%3BHomeLoggedInCommentsExpandedReply.bmml%26bm%3BHomeLoggedInCommentsExpandedReply.bmml%26bm%3BHomeLoggedInCommentsExpandedReply.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22248%2C976%2C281%2C995%22%20href%3D%22HomeLoggedInCommentsExpandedReply.bmml%22%20alt%3D%22HomeLoggedInCommentsExpandedReply%22%20id%3D%2259%22/%3E</map>
             <text>Reply</text>
           </controlProperties>
         </control>
