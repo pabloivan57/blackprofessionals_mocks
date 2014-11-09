@@ -353,5 +353,13 @@
         </control>
       </groupChildrenDescriptors>
     </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Button" x="709" y="777" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <href>HomeLoggedInCommentsDeletionConfirmation%26bm%3BHomeLoggedInCommentsDeletionConfirmation.bmml%26bm%3BHomeLoggedInCommentsDeletionConfirmation.bmml%26bm%3BHomeLoggedInCommentsDeletionConfirmation.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22549%2C772%2C610%2C799%22%20href%3D%22HomeLoggedInCommentsDeletionConfirmation.bmml%22%20alt%3D%22HomeLoggedInCommentsDeletionConfirmation%22%20id%3D%22115%22/%3E</map>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

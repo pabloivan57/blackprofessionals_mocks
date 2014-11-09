@@ -398,12 +398,16 @@
     <control controlID="44" controlTypeID="com.balsamiq.mockups::Button" x="465" y="322" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13576743</color>
+        <href>HomeLoggedIn%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22465%2C322%2C526%2C349%22%20href%3D%22HomeLoggedIn.bmml%22%20alt%3D%22HomeLoggedIn%22%20id%3D%2244%22/%3E</map>
         <text>Delete</text>
       </controlProperties>
     </control>
     <control controlID="45" controlTypeID="com.balsamiq.mockups::Button" x="615" y="322" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10470904</color>
+        <href>HomeLoggedIn%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22615%2C322%2C679%2C349%22%20href%3D%22HomeLoggedIn.bmml%22%20alt%3D%22HomeLoggedIn%22%20id%3D%2245%22/%3E</map>
         <text>Cancel</text>
       </controlProperties>
     </control>
