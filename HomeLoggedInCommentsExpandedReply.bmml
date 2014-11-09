@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="1210" mockupW="864" mockupH="1205">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="1307" mockupW="864" mockupH="1302">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="160" y="5" w="864" h="1205" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="160" y="5" w="864" h="1302" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>A%20Web%20Page%0Ahttp%3A//</text>
       </controlProperties>
@@ -82,7 +82,7 @@
         <text>Connect</text>
       </controlProperties>
     </control>
-    <control controlID="107" controlTypeID="__group__" x="218" y="421" w="555" h="756" measuredW="555" measuredH="756" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="107" controlTypeID="__group__" x="218" y="421" w="555" h="829" measuredW="555" measuredH="829" zOrder="19" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="0" locked="false" isInGroup="107">
           <controlProperties>
@@ -318,64 +318,70 @@
             <text>XP%20Techniques</text>
           </controlProperties>
         </control>
-        <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="25" y="587" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="44" locked="false" isInGroup="107">
-          <controlProperties>
-            <text>I%20found%20it%20really%20useful</text>
-          </controlProperties>
-        </control>
-        <control controlID="47" controlTypeID="com.balsamiq.mockups::HRule" x="25" y="613" w="530" h="-1" measuredW="100" measuredH="10" zOrder="45" locked="false" isInGroup="107"/>
-        <control controlID="48" controlTypeID="com.balsamiq.mockups::Link" x="47" y="623" w="-1" h="-1" measuredW="51" measuredH="19" zOrder="46" locked="false" isInGroup="107">
-          <controlProperties>
-            <text>Aril%20Jain%20</text>
-          </controlProperties>
-        </control>
-        <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="108" y="622" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="47" locked="false" isInGroup="107">
-          <controlProperties>
-            <text>replied</text>
-          </controlProperties>
-        </control>
-        <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="163" y="622" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="48" locked="false" isInGroup="107">
+        <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="231" y="558" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="44" locked="false" isInGroup="107">
           <controlProperties>
             <text>-</text>
           </controlProperties>
         </control>
-        <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="184" y="622" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="49" locked="false" isInGroup="107">
-          <controlProperties>
-            <text>30%20mins%20ago</text>
-          </controlProperties>
-        </control>
-        <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="47" y="648" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="50" locked="false" isInGroup="107">
-          <controlProperties>
-            <text>Thanks%20for%20sharing%21</text>
-          </controlProperties>
-        </control>
-        <control controlID="53" controlTypeID="com.balsamiq.mockups::HRule" x="25" y="684" w="530" h="-1" measuredW="100" measuredH="10" zOrder="51" locked="false" isInGroup="107"/>
-        <control controlID="54" controlTypeID="com.balsamiq.mockups::TextArea" x="25" y="694" w="442" h="47" measuredW="200" measuredH="140" zOrder="52" locked="false" isInGroup="107"/>
-        <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="476" y="704" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="53" locked="false" isInGroup="107">
-          <controlProperties>
-            <text>Comment</text>
-          </controlProperties>
-        </control>
-        <control controlID="56" controlTypeID="com.balsamiq.mockups::VRule" x="0" y="551" w="-1" h="205" measuredW="10" measuredH="100" zOrder="54" locked="false" isInGroup="107"/>
-        <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="231" y="558" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="55" locked="false" isInGroup="107">
-          <controlProperties>
-            <text>-</text>
-          </controlProperties>
-        </control>
-        <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="246" y="558" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="56" locked="false" isInGroup="107">
+        <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="246" y="558" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="45" locked="false" isInGroup="107">
           <controlProperties>
             <text>1%20hour%20ago</text>
           </controlProperties>
         </control>
-        <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="178" y="558" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="57" locked="false" isInGroup="107">
+        <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="25" y="587" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="46" locked="false" isInGroup="107">
+          <controlProperties>
+            <text>I%20found%20it%20really%20useful</text>
+          </controlProperties>
+        </control>
+        <control controlID="47" controlTypeID="com.balsamiq.mockups::HRule" x="25" y="613" w="530" h="-1" measuredW="100" measuredH="10" zOrder="47" locked="false" isInGroup="107"/>
+        <control controlID="48" controlTypeID="com.balsamiq.mockups::Link" x="47" y="704" w="-1" h="-1" measuredW="51" measuredH="19" zOrder="48" locked="false" isInGroup="107">
+          <controlProperties>
+            <text>Aril%20Jain%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="108" y="703" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="49" locked="false" isInGroup="107">
+          <controlProperties>
+            <text>replied</text>
+          </controlProperties>
+        </control>
+        <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="163" y="703" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="50" locked="false" isInGroup="107">
           <controlProperties>
             <text>-</text>
           </controlProperties>
         </control>
-        <control controlID="60" controlTypeID="com.balsamiq.mockups::Link" x="190" y="560" w="-1" h="-1" measuredW="33" measuredH="19" zOrder="58" locked="false" isInGroup="107">
+        <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="184" y="703" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="51" locked="false" isInGroup="107">
+          <controlProperties>
+            <text>30%20mins%20ago</text>
+          </controlProperties>
+        </control>
+        <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="47" y="729" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="52" locked="false" isInGroup="107">
+          <controlProperties>
+            <text>Thanks%20for%20sharing%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="53" controlTypeID="com.balsamiq.mockups::HRule" x="25" y="765" w="530" h="-1" measuredW="100" measuredH="10" zOrder="53" locked="false" isInGroup="107"/>
+        <control controlID="54" controlTypeID="com.balsamiq.mockups::TextArea" x="25" y="778" w="442" h="47" measuredW="200" measuredH="140" zOrder="54" locked="false" isInGroup="107"/>
+        <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="476" y="788" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="55" locked="false" isInGroup="107">
+          <controlProperties>
+            <text>Comment</text>
+          </controlProperties>
+        </control>
+        <control controlID="56" controlTypeID="com.balsamiq.mockups::VRule" x="0" y="551" w="-1" h="278" measuredW="10" measuredH="100" zOrder="56" locked="false" isInGroup="107"/>
+        <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="178" y="558" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="57" locked="false" isInGroup="107">
+          <controlProperties>
+            <text>-</text>
+          </controlProperties>
+        </control>
+        <control controlID="59" controlTypeID="com.balsamiq.mockups::Link" x="190" y="560" w="-1" h="-1" measuredW="33" measuredH="19" zOrder="58" locked="false" isInGroup="107">
           <controlProperties>
             <href>HomeLoggedInCommentsExpandedReply%26bm%3BHomeLoggedInCommentsExpandedReply.bmml%26bm%3BHomeLoggedInCommentsExpandedReply.bmml%26bm%3BHomeLoggedInCommentsExpandedReply.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22248%2C976%2C281%2C995%22%20href%3D%22HomeLoggedInCommentsExpandedReply.bmml%22%20alt%3D%22HomeLoggedInCommentsExpandedReply%22%20id%3D%2260%22/%3E</map>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22248%2C976%2C281%2C995%22%20href%3D%22HomeLoggedInCommentsExpandedReply.bmml%22%20alt%3D%22HomeLoggedInCommentsExpandedReply%22%20id%3D%2259%22/%3E</map>
+            <text>Reply</text>
+          </controlProperties>
+        </control>
+        <control controlID="60" controlTypeID="com.balsamiq.mockups::TextArea" x="86" y="631" w="381" h="47" measuredW="200" measuredH="140" zOrder="59" locked="false" isInGroup="107"/>
+        <control controlID="61" controlTypeID="com.balsamiq.mockups::Button" x="476" y="641" w="79" h="27" measuredW="55" measuredH="27" zOrder="60" locked="false" isInGroup="107">
+          <controlProperties>
             <text>Reply</text>
           </controlProperties>
         </control>
