@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1070" measuredH="525" mockupW="870" mockupH="525">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="200" y="0" w="870" h="525" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="405" y="123" w="-1" h="-1" measuredW="460" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Join%20the%20Black%20community.</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="358" y="197" w="261" h="219" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="264" y="181" w="141" h="144" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Promotional%20space.%20Testimonials%2C%20or%20it%20can%20be%20the%20area%20used%20to%20submit%20the%20profile%20picture</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::StickyNote" x="862" y="83" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Application%20slogan%20or%20similar</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="__group__" x="663" y="197" w="217" h="219" measuredW="217" measuredH="219" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="0" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Email</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="60" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="1" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Password</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="125" w="-1" h="-1" measuredW="137" measuredH="21" zOrder="2" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Password%20Confirmation%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="21" w="217" h="-1" measuredW="79" measuredH="26" zOrder="3" locked="false" isInGroup="27"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="84" w="217" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="27"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="152" w="217" h="-1" measuredW="79" measuredH="26" zOrder="5" locked="false" isInGroup="27">
+          <controlProperties>
+            <bold>true</bold>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="62" y="192" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="6" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Join%20Now</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
