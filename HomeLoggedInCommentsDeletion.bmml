@@ -366,13 +366,15 @@
         <text>Post</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::Button" x="709" y="453" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Button" x="709" y="777" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13369344</color>
+        <href>HomeLoggedInCommentsDeletionConfirmation%26bm%3BHomeLoggedInCommentsDeletionConfirmation.bmml%26bm%3BHomeLoggedInCommentsDeletionConfirmation.bmml%26bm%3BHomeLoggedInCommentsDeletionConfirmation.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22549%2C772%2C610%2C799%22%20href%3D%22HomeLoggedInCommentsDeletionConfirmation.bmml%22%20alt%3D%22HomeLoggedInCommentsDeletionConfirmation%22%20id%3D%2235%22/%3E</map>
         <text>Delete</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Arrow" x="770" y="480" w="15" h="18" measuredW="150" measuredH="100" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Arrow" x="770" y="804" w="15" h="18" measuredW="150" measuredH="100" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <color>3355443</color>
         <curvature>0</curvature>
