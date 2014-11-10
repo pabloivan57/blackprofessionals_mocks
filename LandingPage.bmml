@@ -39,7 +39,7 @@
         <text>Privacy%20Policy</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="467" y="480" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="467" y="480" w="-1" h="-1" measuredW="31" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Help</text>
       </controlProperties>
@@ -113,6 +113,8 @@
       <controlProperties>
         <bold>true</bold>
         <color>2848996</color>
+        <href>SignUp_Professional%26bm%3BSignUp_Professional.bmml%26bm%3BSignUp_Professional.bmml%26bm%3BSignUp_Professional.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22641%2C370%2C701%2C397%22%20href%3D%22SignUp_Professional.bmml%22%20alt%3D%22SignUp_Professional%22%20id%3D%2236%22/%3E</map>
         <size>16</size>
         <text>Join</text>
       </controlProperties>

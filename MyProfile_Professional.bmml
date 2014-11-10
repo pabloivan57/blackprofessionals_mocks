@@ -367,6 +367,8 @@
     </control>
     <control controlID="137" controlTypeID="com.balsamiq.mockups::Button" x="664" y="332" w="-1" h="-1" measuredW="85" measuredH="27" zOrder="69" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>EditProfile%26bm%3BEditProfile.bmml%26bm%3BEditProfile.bmml%26bm%3BEditProfile.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22504%2C327%2C589%2C354%22%20href%3D%22EditProfile.bmml%22%20alt%3D%22EditProfile%22%20id%3D%22137%22/%3E</map>
         <text>Edit%20Profile</text>
       </controlProperties>
     </control>
