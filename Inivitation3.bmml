@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1053" measuredH="862" mockupW="873" mockupH="837">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1065" measuredH="870" mockupW="897" mockupH="853">
   <controls>
     <control controlID="23" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="180" y="25" w="873" h="837" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -84,10 +84,8 @@
         <text>Connect</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::ButtonBar" x="579" y="170" w="-1" h="-1" measuredW="217" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::ButtonBar" x="579" y="170" w="-1" h="-1" measuredW="217" measuredH="27" zOrder="19" locked="true" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2CInvitation3%26bm%3BInvitation3.bmml%26bm%3BInvitation3.bmml%26bm%3BInvitation3.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22447%2C145%2C504%2C172%22%20href%3D%22Invitation3.bmml%22%20alt%3D%22Invitation3%22%20id%3D%2246%22/%3E</map>
         <selectedIndex>1</selectedIndex>
         <text>Join%2C%20Invite%2C%20Send%20Message</text>
       </controlProperties>
@@ -103,14 +101,14 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="71" y="8" w="-1" h="-1" measuredW="44" measuredH="19" zOrder="2" locked="false" isInGroup="47">
           <controlProperties>
             <href>HomeLoggedImagesPicker%26bm%3BHomeLoggedImagesPicker.bmml%26bm%3BHomeLoggedImagesPicker.bmml%26bm%3BHomeLoggedImagesPicker.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22107%2C188%2C151%2C207%22%20href%3D%22HomeLoggedImagesPicker.bmml%22%20alt%3D%22HomeLoggedImagesPicker%22%20id%3D%222%22/%3E</map>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C196%2C163%2C215%22%20href%3D%22HomeLoggedImagesPicker.bmml%22%20alt%3D%22HomeLoggedImagesPicker%22%20id%3D%222%22/%3E</map>
             <text>Images</text>
           </controlProperties>
         </control>
         <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="135" y="8" w="-1" h="-1" measuredW="33" measuredH="19" zOrder="3" locked="false" isInGroup="47">
           <controlProperties>
             <href>HomeLoggedInVideosPicker%26bm%3BHomeLoggedInVideosPicker.bmml%26bm%3BHomeLoggedInVideosPicker.bmml%26bm%3BHomeLoggedInVideosPicker.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22171%2C188%2C204%2C207%22%20href%3D%22HomeLoggedInVideosPicker.bmml%22%20alt%3D%22HomeLoggedInVideosPicker%22%20id%3D%223%22/%3E</map>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22183%2C196%2C216%2C215%22%20href%3D%22HomeLoggedInVideosPicker.bmml%22%20alt%3D%22HomeLoggedInVideosPicker%22%20id%3D%223%22/%3E</map>
             <text>Video</text>
           </controlProperties>
         </control>
@@ -324,6 +322,106 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::FieldSet" x="258" y="258" w="485" h="414" measuredW="200" measuredH="170" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invite%20Friends</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::SearchBox" x="277" y="287" w="441" h="-1" measuredW="120" measuredH="25" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jerry</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::HRule" x="285" y="361" w="427" h="-1" measuredW="100" measuredH="10" zOrder="58" locked="false" isInGroup="-1"/>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::HRule" x="285" y="426" w="427" h="-1" measuredW="100" measuredH="10" zOrder="59" locked="false" isInGroup="-1"/>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::HRule" x="287" y="494" w="427" h="-1" measuredW="100" measuredH="10" zOrder="60" locked="false" isInGroup="-1"/>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::HRule" x="287" y="576" w="427" h="-1" measuredW="100" measuredH="10" zOrder="61" locked="false" isInGroup="-1"/>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Webcam" x="302" y="317" w="55" h="44" measuredW="177" measuredH="146" zOrder="62" locked="false" isInGroup="-1"/>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Label" x="379" y="321" w="81" h="-1" measuredW="69" measuredH="21" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jerry%20Wang</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="396" y="342" w="184" h="-1" measuredW="137" measuredH="21" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Web%20Developer%20at%20USC</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Button" x="597" y="326" w="102" h="27" measuredW="55" measuredH="27" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <text>Invite</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Webcam" x="302" y="376" w="55" h="44" measuredW="177" measuredH="146" zOrder="65" locked="false" isInGroup="-1"/>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="379" y="380" w="81" h="-1" measuredW="65" measuredH="21" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jerry%20Yang</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="396" y="401" w="184" h="-1" measuredW="94" measuredH="21" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Student%20at%20USC</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Button" x="597" y="385" w="102" h="27" measuredW="55" measuredH="27" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invite</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Webcam" x="302" y="443" w="55" h="44" measuredW="177" measuredH="146" zOrder="70" locked="false" isInGroup="-1"/>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="379" y="447" w="81" h="-1" measuredW="57" measuredH="21" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jerry%20Wei</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="396" y="468" w="184" h="-1" measuredW="160" measuredH="21" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Basketball%20player%20at%20Lakers</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Button" x="597" y="452" w="102" h="27" measuredW="55" measuredH="27" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invite</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Webcam" x="302" y="514" w="55" h="44" measuredW="177" measuredH="146" zOrder="74" locked="false" isInGroup="-1"/>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="379" y="518" w="81" h="-1" measuredW="81" measuredH="21" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jeremy%20Wang</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="396" y="539" w="184" h="-1" measuredW="104" measuredH="21" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Professor%20at%20USC</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Button" x="597" y="523" w="102" h="27" measuredW="55" measuredH="27" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invite</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Webcam" x="302" y="600" w="55" h="44" measuredW="177" measuredH="146" zOrder="78" locked="false" isInGroup="-1"/>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Label" x="379" y="604" w="81" h="-1" measuredW="66" measuredH="21" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jenny%20King</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="396" y="625" w="184" h="-1" measuredW="126" measuredH="21" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dancer%20at%20Las%20Vegas</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="597" y="609" w="102" h="27" measuredW="55" measuredH="27" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invite</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Canvas" x="168" y="17" w="897" h="853" measuredW="100" measuredH="70" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+      </controlProperties>
     </control>
   </controls>
 </mockup>
