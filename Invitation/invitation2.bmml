@@ -58,8 +58,8 @@
     </control>
     <control controlID="46" controlTypeID="com.balsamiq.mockups::ButtonBar" x="579" y="170" w="-1" h="-1" measuredW="217" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2CInvitation3%26bm%3BInvitation3.bmml%26bm%3BInvitation3.bmml%26bm%3BInvitation3.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22441%2C157%2C498%2C184%22%20href%3D%22Invitation3.bmml%22%20alt%3D%22Invitation3%22%20id%3D%2246%22/%3E</map>
+        <hrefs>%2Cinvitation3%26bm%3Binvitation3.bmml%26bm%3Binvitation3.bmml%26bm%3Binvitation3.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22441%2C157%2C498%2C184%22%20href%3D%22invitation3.bmml%22%20alt%3D%22invitation3%22%20id%3D%2246%22/%3E</map>
         <selectedIndex>1</selectedIndex>
         <text>Join%2C%20Invite%2C%20Send%20Message</text>
       </controlProperties>
