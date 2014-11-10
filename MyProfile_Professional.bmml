@@ -101,7 +101,7 @@
             <text>Privacy%20Policy</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="307" y="6" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="4" locked="false" isInGroup="70">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="307" y="6" w="-1" h="-1" measuredW="31" measuredH="21" zOrder="4" locked="false" isInGroup="70">
           <controlProperties>
             <text>Help</text>
           </controlProperties>
