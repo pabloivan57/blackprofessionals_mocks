@@ -353,11 +353,19 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::Button" x="709" y="777" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Button" x="639" y="554" w="55" h="27" measuredW="46" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <href>HomeLoggedInUpdateEdit%26bm%3BHomeLoggedInUpdateEdit.bmml%26bm%3BHomeLoggedInUpdateEdit.bmml%26bm%3BHomeLoggedInUpdateEdit.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22479%2C549%2C534%2C576%22%20href%3D%22HomeLoggedInUpdateEdit.bmml%22%20alt%3D%22HomeLoggedInUpdateEdit%22%20id%3D%22116%22/%3E</map>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Button" x="709" y="554" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13369344</color>
         <href>HomeLoggedInCommentsDeletionConfirmation%26bm%3BHomeLoggedInCommentsDeletionConfirmation.bmml%26bm%3BHomeLoggedInCommentsDeletionConfirmation.bmml%26bm%3BHomeLoggedInCommentsDeletionConfirmation.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22549%2C772%2C610%2C799%22%20href%3D%22HomeLoggedInCommentsDeletionConfirmation.bmml%22%20alt%3D%22HomeLoggedInCommentsDeletionConfirmation%22%20id%3D%22115%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22549%2C549%2C610%2C576%22%20href%3D%22HomeLoggedInCommentsDeletionConfirmation.bmml%22%20alt%3D%22HomeLoggedInCommentsDeletionConfirmation%22%20id%3D%22117%22/%3E</map>
         <text>Delete</text>
       </controlProperties>
     </control>
