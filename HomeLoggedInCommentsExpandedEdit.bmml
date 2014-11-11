@@ -337,11 +337,11 @@
           </controlProperties>
         </control>
         <control controlID="61" controlTypeID="com.balsamiq.mockups::TextArea" x="25" y="587" w="522" h="70" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="107"/>
-        <control controlID="62" controlTypeID="com.balsamiq.mockups::Button" x="402" y="668" w="63" h="27" measuredW="52" measuredH="27" zOrder="51" locked="false" isInGroup="107">
+        <control controlID="62" controlTypeID="com.balsamiq.mockups::Button" x="398" y="668" w="63" h="27" measuredW="52" measuredH="27" zOrder="51" locked="false" isInGroup="107">
           <controlProperties>
             <color>6989903</color>
             <href>HomeLoggedInCommentsExpanded%26bm%3BHomeLoggedInCommentsExpanded.bmml%26bm%3BHomeLoggedInCommentsExpanded.bmml%26bm%3BHomeLoggedInCommentsExpanded.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22460%2C1084%2C523%2C1111%22%20href%3D%22HomeLoggedInCommentsExpanded.bmml%22%20alt%3D%22HomeLoggedInCommentsExpanded%22%20id%3D%2262%22/%3E</map>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22456%2C1084%2C519%2C1111%22%20href%3D%22HomeLoggedInCommentsExpanded.bmml%22%20alt%3D%22HomeLoggedInCommentsExpanded%22%20id%3D%2262%22/%3E</map>
             <text>Save</text>
           </controlProperties>
         </control>
