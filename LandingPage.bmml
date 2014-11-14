@@ -66,6 +66,8 @@
     <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="949" y="105" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
+        <href>MyProfile_Student%26bm%3BMyProfile_Student.bmml%26bm%3BMyProfile_Student.bmml%26bm%3BMyProfile_Student.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22789%2C100%2C853%2C127%22%20href%3D%22MyProfile_Student.bmml%22%20alt%3D%22MyProfile_Student%22%20id%3D%2227%22/%3E</map>
         <text>Sign-in</text>
       </controlProperties>
     </control>
@@ -88,7 +90,7 @@
         <text>Join%20Now%20-%20It%27s%20Free</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::Canvas" x="678" y="219" w="313" h="191" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Canvas" x="678" y="219" w="313" h="226" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1"/>
     <control controlID="32" controlTypeID="com.balsamiq.mockups::TextInput" x="695" y="232" w="129" h="-1" measuredW="77" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>First%20Name</text>
@@ -109,12 +111,12 @@
         <text>New%20Password</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="801" y="375" w="60" h="27" measuredW="55" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="801" y="405" w="60" h="27" measuredW="55" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>2848996</color>
         <href>SignUp_Professional%26bm%3BSignUp_Professional.bmml%26bm%3BSignUp_Professional.bmml%26bm%3BSignUp_Professional.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22641%2C370%2C701%2C397%22%20href%3D%22SignUp_Professional.bmml%22%20alt%3D%22SignUp_Professional%22%20id%3D%2236%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22641%2C400%2C701%2C427%22%20href%3D%22SignUp_Professional.bmml%22%20alt%3D%22SignUp_Professional%22%20id%3D%2236%22/%3E</map>
         <size>16</size>
         <text>Join</text>
       </controlProperties>
@@ -126,28 +128,34 @@
         <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="697" y="348" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="697" y="378" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <text>I%20am%20a</text>
       </controlProperties>
     </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::RadioButton" x="749" y="349" w="-1" h="-1" measuredW="77" measuredH="18" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::RadioButton" x="749" y="379" w="-1" h="-1" measuredW="77" measuredH="18" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <size>10</size>
+        <state>selected</state>
         <text>Professional</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::RadioButton" x="832" y="349" w="-1" h="-1" measuredW="56" measuredH="18" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::RadioButton" x="832" y="379" w="-1" h="-1" measuredW="56" measuredH="18" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <size>10</size>
         <text>Student</text>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::RadioButton" x="901" y="349" w="-1" h="-1" measuredW="63" measuredH="18" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::RadioButton" x="901" y="379" w="-1" h="-1" measuredW="63" measuredH="18" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <size>10</size>
         <text>Company</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::TextInput" x="695" y="348" w="273" h="-1" measuredW="145" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Confirm%20New%20Password</text>
       </controlProperties>
     </control>
   </controls>
