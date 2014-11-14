@@ -125,26 +125,26 @@
         <text>Los%20Angeles%2C%20California%20%7C%20%20Computer%20Science</text>
       </controlProperties>
     </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="411" y="260" w="-1" h="-1" measuredW="49" measuredH="18" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="411" y="270" w="-1" h="-1" measuredW="49" measuredH="18" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <color>3355443</color>
         <size>11</size>
         <text>Previous</text>
       </controlProperties>
     </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Label" x="476" y="259" w="-1" h="-1" measuredW="137" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Label" x="506" y="269" w="-1" h="-1" measuredW="137" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Mordor%20Software%20Corp.</text>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="411" y="279" w="-1" h="-1" measuredW="54" measuredH="18" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="411" y="289" w="-1" h="-1" measuredW="54" measuredH="18" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <color>3355443</color>
         <size>11</size>
         <text>Education</text>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="476" y="278" w="-1" h="-1" measuredW="188" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="506" y="288" w="-1" h="-1" measuredW="188" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>University%20of%20Southern%20California</text>
       </controlProperties>
@@ -356,7 +356,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="150" controlTypeID="__group__" x="216" y="647" w="516" h="212" measuredW="516" measuredH="212" zOrder="53" locked="false" isInGroup="-1">
+    <control controlID="150" controlTypeID="__group__" x="215" y="492" w="516" h="212" measuredW="516" measuredH="212" zOrder="53" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="35" w="516" h="177" measuredW="200" measuredH="80" zOrder="0" locked="false" isInGroup="150">
           <controlProperties>
@@ -377,10 +377,10 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="151" controlTypeID="__group__" x="215" y="504" w="517" h="136" measuredW="517" measuredH="136" zOrder="51" locked="false" isInGroup="-1">
+    <control controlID="151" controlTypeID="__group__" x="215" y="711" w="517" h="136" measuredW="517" measuredH="136" zOrder="51" locked="false" isInGroup="-1">
       <controlProperties>
         <href>MyProfile_Company%26bm%3BMyProfile_Company.bmml%26bm%3BMyProfile_Company.bmml%26bm%3BMyProfile_Company.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C499%2C572%2C635%22%20href%3D%22MyProfile_Company.bmml%22%20alt%3D%22MyProfile_Company%22%20id%3D%22151%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C706%2C572%2C842%22%20href%3D%22MyProfile_Company.bmml%22%20alt%3D%22MyProfile_Company%22%20id%3D%22151%22/%3E</map>
       </controlProperties>
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="151">
@@ -437,6 +437,18 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::Label" x="411" y="251" w="-1" h="-1" measuredW="86" measuredH="18" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>11</size>
+        <text>Career%20Interest</text>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::Label" x="506" y="248" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>System%20Engineering</text>
+      </controlProperties>
     </control>
   </controls>
 </mockup>
