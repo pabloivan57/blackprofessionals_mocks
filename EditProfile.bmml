@@ -240,7 +240,7 @@
         <text>software%20statistics%20teaching%20%7Bcolor%3A%23FF0000%7Dtechnology%7Bcolor%7D%20tips%20tool%20tools%20toread%20travel%20tutorial%20tutorials%20tv%20twitter%20typography%20ubuntu%20usability%20video%20videos%20visualization%20web%20web%5C%202.0%20web%5C%20design%20webdev%20wiki%20windows%20wordpress%20work%20writing%20youtube</text>
       </controlProperties>
     </control>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::FieldSet" x="204" y="364" w="548" h="1196" measuredW="200" measuredH="170" zOrder="46" locked="false" isInGroup="-1">
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::FieldSet" x="204" y="388" w="548" h="1172" measuredW="200" measuredH="170" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
         <text>*Background*</text>
       </controlProperties>
@@ -419,7 +419,7 @@
         <text>*Following*</text>
       </controlProperties>
     </control>
-    <control controlID="166" controlTypeID="com.balsamiq.mockups::Canvas" x="204" y="161" w="550" h="187" measuredW="100" measuredH="70" zOrder="73" locked="false" isInGroup="-1">
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::Canvas" x="204" y="161" w="550" h="216" measuredW="100" measuredH="70" zOrder="73" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <borderStyle>square</borderStyle>
@@ -444,59 +444,69 @@
         <text>Los%20Angeles%2C%20California%20%7C%20%20Telecommunications</text>
       </controlProperties>
     </control>
-    <control controlID="174" controlTypeID="com.balsamiq.mockups::Label" x="447" y="265" w="-1" h="-1" measuredW="49" measuredH="18" zOrder="78" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>3355443</color>
-        <size>11</size>
-        <text>Previous</text>
-      </controlProperties>
-    </control>
-    <control controlID="175" controlTypeID="com.balsamiq.mockups::Label" x="512" y="264" w="-1" h="-1" measuredW="143" measuredH="21" zOrder="79" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>RAN%20Networks%20Pvt.%20Ltd.</text>
-      </controlProperties>
-    </control>
-    <control controlID="176" controlTypeID="com.balsamiq.mockups::Label" x="447" y="284" w="-1" h="-1" measuredW="54" measuredH="18" zOrder="80" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>3355443</color>
-        <size>11</size>
-        <text>Education</text>
-      </controlProperties>
-    </control>
-    <control controlID="177" controlTypeID="com.balsamiq.mockups::Label" x="512" y="283" w="-1" h="-1" measuredW="188" measuredH="21" zOrder="81" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>University%20of%20Southern%20California</text>
-      </controlProperties>
-    </control>
-    <control controlID="178" controlTypeID="com.balsamiq.mockups::Icon" x="379" y="186" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="82" locked="false" isInGroup="-1">
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Icon" x="379" y="186" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="78" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>PencilIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="179" controlTypeID="com.balsamiq.mockups::Icon" x="423" y="186" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="83" locked="false" isInGroup="-1">
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::Icon" x="423" y="186" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="79" locked="false" isInGroup="-1">
       <controlProperties>
         <href>EditProfile_Name_Experience%26bm%3BEditProfile_Name_Experience.bmml%26bm%3BEditProfile_Name_Experience.bmml%26bm%3BEditProfile_Name_Experience.bmml</href>
         <icon>PencilIcon%7Cxsmall</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C181%2C279%2C197%22%20href%3D%22EditProfile_Name_Experience.bmml%22%20alt%3D%22EditProfile_Name_Experience%22%20id%3D%22179%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="180" controlTypeID="com.balsamiq.mockups::Icon" x="423" y="209" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="84" locked="false" isInGroup="-1">
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::Icon" x="423" y="209" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="80" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>PencilIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="181" controlTypeID="com.balsamiq.mockups::Icon" x="423" y="231" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="85" locked="false" isInGroup="-1">
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::Icon" x="423" y="231" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="81" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>PencilIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="182" controlTypeID="com.balsamiq.mockups::Button" x="628" y="313" w="-1" h="-1" measuredW="95" measuredH="27" zOrder="86" locked="false" isInGroup="-1">
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::Button" x="628" y="339" w="-1" h="-1" measuredW="95" measuredH="27" zOrder="82" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <href>MyProfile_Professional%26bm%3BMyProfile_Professional.bmml%26bm%3BMyProfile_Professional.bmml%26bm%3BMyProfile_Professional.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22468%2C308%2C563%2C335%22%20href%3D%22MyProfile_Professional.bmml%22%20alt%3D%22MyProfile_Professional%22%20id%3D%22182%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22468%2C334%2C563%2C361%22%20href%3D%22MyProfile_Professional.bmml%22%20alt%3D%22MyProfile_Professional%22%20id%3D%22182%22/%3E</map>
         <state>up</state>
         <text>Done%20Editing</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Label" x="447" y="275" w="-1" h="-1" measuredW="103" measuredH="18" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>11</size>
+        <text>Cultural%20Background</text>
+      </controlProperties>
+    </control>
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::Label" x="555" y="274" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="84" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>African-American</text>
+      </controlProperties>
+    </control>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::Icon" x="423" y="276" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="85" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PencilIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::Label" x="447" y="254" w="-1" h="-1" measuredW="86" measuredH="18" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>11</size>
+        <text>Career%20Interest</text>
+      </controlProperties>
+    </control>
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::Label" x="554" y="253" w="-1" h="-1" measuredW="14" measuredH="21" zOrder="87" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::Icon" x="423" y="255" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PencilIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
   </controls>
