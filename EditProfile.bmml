@@ -490,5 +490,14 @@
         <icon>PencilIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::Button" x="628" y="313" w="-1" h="-1" measuredW="95" measuredH="27" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>MyProfile_Professional%26bm%3BMyProfile_Professional.bmml%26bm%3BMyProfile_Professional.bmml%26bm%3BMyProfile_Professional.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22468%2C308%2C563%2C335%22%20href%3D%22MyProfile_Professional.bmml%22%20alt%3D%22MyProfile_Professional%22%20id%3D%22182%22/%3E</map>
+        <state>up</state>
+        <text>Done%20Editing</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

@@ -204,16 +204,18 @@
         <text>Director%20at%20Femtocell%20Inc.</text>
       </controlProperties>
     </control>
-    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="841" y="247" w="-1" h="-1" measuredW="82" measuredH="18" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="841" y="247" w="-1" h="-1" measuredW="61" measuredH="18" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>MyProfile_Student%26bm%3BMyProfile_Student.bmml%26bm%3BMyProfile_Student.bmml%26bm%3BMyProfile_Student.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22681%2C242%2C742%2C260%22%20href%3D%22MyProfile_Student.bmml%22%20alt%3D%22MyProfile_Student%22%20id%3D%2291%22/%3E</map>
         <size>11</size>
-        <text>*Microft%20Holmes*</text>
+        <text>*John%20Green*</text>
       </controlProperties>
     </control>
-    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="841" y="259" w="-1" h="-1" measuredW="148" measuredH="17" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="841" y="259" w="-1" h="-1" measuredW="107" measuredH="17" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <size>10</size>
-        <text>University%20of%20Southern%20California</text>
+        <text>PhD%20Candidate%20at%20USC</text>
       </controlProperties>
     </control>
     <control controlID="93" controlTypeID="com.balsamiq.mockups::Label" x="840" y="293" w="-1" h="-1" measuredW="73" measuredH="18" zOrder="35" locked="false" isInGroup="-1">
