@@ -163,6 +163,9 @@
     </control>
     <control controlID="144" controlTypeID="com.balsamiq.mockups::Label" x="202" y="223" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>10066329</color>
+        <href>Messaging_new%26bm%3BMessaging_new.bmml%26bm%3BMessaging_new.bmml%26bm%3BMessaging_new.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C218%2C68%2C239%22%20href%3D%22Messaging_new.bmml%22%20alt%3D%22Messaging_new%22%20id%3D%22144%22/%3E</map>
         <text>New</text>
       </controlProperties>
     </control>
@@ -176,20 +179,20 @@
         <text>Messages</text>
       </controlProperties>
     </control>
-    <control controlID="147" controlTypeID="com.balsamiq.mockups::Label" x="189" y="289" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::Label" x="189" y="285" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
         <href>Messaging_sent%26bm%3BMessaging_sent.bmml%26bm%3BMessaging_sent.bmml%26bm%3BMessaging_sent.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C284%2C57%2C305%22%20href%3D%22Messaging_sent.bmml%22%20alt%3D%22Messaging_sent%22%20id%3D%22147%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C280%2C57%2C301%22%20href%3D%22Messaging_sent.bmml%22%20alt%3D%22Messaging_sent%22%20id%3D%22147%22/%3E</map>
         <text>Sent</text>
       </controlProperties>
     </control>
-    <control controlID="150" controlTypeID="com.balsamiq.mockups::SearchBox" x="182" y="320" w="81" h="-1" measuredW="120" measuredH="25" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::SearchBox" x="182" y="312" w="81" h="-1" measuredW="120" measuredH="25" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>search</text>
       </controlProperties>
     </control>
-    <control controlID="151" controlTypeID="com.balsamiq.mockups::HRule" x="183" y="310" w="79" h="-1" measuredW="100" measuredH="10" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::HRule" x="183" y="304" w="79" h="-1" measuredW="100" measuredH="10" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
       </controlProperties>
