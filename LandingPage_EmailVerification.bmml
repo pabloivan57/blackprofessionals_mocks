@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1033" measuredH="534" mockupW="873" mockupH="529">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1033" measuredH="536" mockupW="873" mockupH="529">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="160" y="5" w="873" h="529" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="160" y="7" w="873" h="529" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Black%20Professionals%0Ahttp%3A//blackprofessionals.net</text>
       </controlProperties>
@@ -67,7 +67,7 @@
       <controlProperties>
         <bold>true</bold>
         <href>MyProfile_Student%26bm%3BMyProfile_Student.bmml%26bm%3BMyProfile_Student.bmml%26bm%3BMyProfile_Student.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22789%2C100%2C853%2C127%22%20href%3D%22MyProfile_Student.bmml%22%20alt%3D%22MyProfile_Student%22%20id%3D%2227%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22789%2C98%2C853%2C125%22%20href%3D%22MyProfile_Student.bmml%22%20alt%3D%22MyProfile_Student%22%20id%3D%2227%22/%3E</map>
         <text>Sign-in</text>
       </controlProperties>
     </control>
@@ -115,8 +115,8 @@
       <controlProperties>
         <bold>true</bold>
         <color>2848996</color>
-        <href>LandingPage_EmailVerification%26bm%3BLandingPage_EmailVerification.bmml%26bm%3BLandingPage_EmailVerification.bmml%26bm%3BLandingPage_EmailVerification.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22641%2C400%2C701%2C427%22%20href%3D%22LandingPage_EmailVerification.bmml%22%20alt%3D%22LandingPage_EmailVerification%22%20id%3D%2236%22/%3E</map>
+        <href>SignUp_Professional%26bm%3BSignUp_Professional.bmml%26bm%3BSignUp_Professional.bmml%26bm%3BSignUp_Professional.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22641%2C398%2C701%2C425%22%20href%3D%22SignUp_Professional.bmml%22%20alt%3D%22SignUp_Professional%22%20id%3D%2236%22/%3E</map>
         <size>16</size>
         <text>Join</text>
       </controlProperties>
@@ -156,6 +156,19 @@
     <control controlID="43" controlTypeID="com.balsamiq.mockups::TextInput" x="695" y="348" w="273" h="-1" measuredW="145" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Confirm%20New%20Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Canvas" x="638" y="227" w="375" h="207" measuredW="100" measuredH="70" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>13421772</color>
+        <href>SignUp_Professional%26bm%3BSignUp_Professional.bmml%26bm%3BSignUp_Professional.bmml%26bm%3BSignUp_Professional.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22478%2C220%2C853%2C427%22%20href%3D%22SignUp_Professional.bmml%22%20alt%3D%22SignUp_Professional%22%20id%3D%2244%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Paragraph" x="657" y="242" w="334" h="194" measuredW="200" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hi%20*%5BJohn%5D*%20%21%0AThank%20you%20for%20signing%20up%20with%20us.%0A%20%0AYou%20are%20just%20a%20step%20away%20from%20creating%20your%20profile.%0A%20%0APlease%20check%20your%20inbox%20for%20the%20e-mail%20address%20you%20just%20provided%20for%20a%20mail%20from%20us.%0A%20%0AClick%20on%20the%20verification%20link%20in%20the%20mail%20to%20continue%20building%20your%20profile</text>
       </controlProperties>
     </control>
   </controls>
