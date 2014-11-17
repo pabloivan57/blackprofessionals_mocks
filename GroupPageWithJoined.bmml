@@ -19,6 +19,8 @@
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="763" y="180" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>GroupPageWithoutJoining%26bm%3BGroupPageWithoutJoining.bmml%26bm%3BGroupPageWithoutJoining.bmml%26bm%3BGroupPageWithoutJoining.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22595%2C177%2C656%2C204%22%20href%3D%22GroupPageWithoutJoining.bmml%22%20alt%3D%22GroupPageWithoutJoining%22%20id%3D%2212%22/%3E</map>
         <text>Joined</text>
       </controlProperties>
     </control>
