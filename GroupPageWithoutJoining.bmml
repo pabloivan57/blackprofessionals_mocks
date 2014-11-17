@@ -19,6 +19,8 @@
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="746" y="180" w="-1" h="-1" measuredW="86" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>GroupPagePendingRequest%26bm%3BGroupPagePendingRequest.bmml%26bm%3BGroupPagePendingRequest.bmml%26bm%3BGroupPagePendingRequest.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22578%2C177%2C664%2C204%22%20href%3D%22GroupPagePendingRequest.bmml%22%20alt%3D%22GroupPagePendingRequest%22%20id%3D%2212%22/%3E</map>
         <text>Join%20Group</text>
       </controlProperties>
     </control>
