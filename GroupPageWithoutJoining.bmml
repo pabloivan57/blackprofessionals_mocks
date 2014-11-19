@@ -61,10 +61,10 @@
             <text>Member</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="1" locked="false" isInGroup="21">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="1" locked="false" isInGroup="21">
           <controlProperties>
             <markup>true</markup>
-            <text>Discussion</text>
+            <text>Social%20feed</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>

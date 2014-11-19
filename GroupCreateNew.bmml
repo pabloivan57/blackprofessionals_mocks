@@ -57,8 +57,8 @@
     </control>
     <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="667" y="497" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>Grouplistgroup%26bm%3BGrouplistgroup.bmml%26bm%3BGrouplistgroup.bmml%26bm%3BGrouplistgroup.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22499%2C494%2C562%2C521%22%20href%3D%22Grouplistgroup.bmml%22%20alt%3D%22Grouplistgroup%22%20id%3D%2229%22/%3E</map>
+        <href>GroupPageWithJoined%26bm%3BGroupPageWithJoined.bmml%26bm%3BGroupPageWithJoined.bmml%26bm%3BGroupPageWithJoined.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22499%2C494%2C562%2C521%22%20href%3D%22GroupPageWithJoined.bmml%22%20alt%3D%22GroupPageWithJoined%22%20id%3D%2229%22/%3E</map>
         <text>Create</text>
       </controlProperties>
     </control>
