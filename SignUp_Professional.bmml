@@ -1,0 +1,190 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1033" measuredH="621" mockupW="873" mockupH="616">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="160" y="5" w="873" h="616" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <text>Black%20Professionals%0Ahttp%3A//blackprofessionals.net</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="471" y="97" w="-1" h="-1" measuredW="250" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>BlackProfessionals.net</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Canvas" x="213" y="174" w="413" h="371" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextInput" x="354" y="238" w="190" h="-1" measuredW="79" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextInput" x="354" y="280" w="190" h="-1" measuredW="79" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextInput" x="354" y="367" w="190" h="-1" measuredW="79" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="354" y="407" w="190" h="-1" measuredW="79" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="358" y="508" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <href>MyProfile_Professional%26bm%3BMyProfile_Professional.bmml%26bm%3BMyProfile_Professional.bmml%26bm%3BMyProfile_Professional.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22198%2C503%2C294%2C530%22%20href%3D%22MyProfile_Professional.bmml%22%20alt%3D%22MyProfile_Professional%22%20id%3D%2236%22/%3E</map>
+        <size>13</size>
+        <text>Build%20Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="162" y="78" w="871" h="70" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>square</borderStyle>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::HRule" x="226" y="213" w="340" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="233" y="188" w="-1" h="-1" measuredW="264" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>14</size>
+        <text>Hi%20*%5BJohn%5D*%21%20%20Let%27s%20start%20building%20up%20your%20profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="227" y="241" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Designation</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="227" y="283" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Company</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="227" y="370" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>City%20/%20Zip</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="227" y="410" w="-1" h="-1" measuredW="53" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Country</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="__group__" x="683" y="323" w="277" h="133" measuredW="277" measuredH="133" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="277" h="133" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="55"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="15" w="247" h="102" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="55">
+          <controlProperties>
+            <text>Joining%20the%20network%20was%20a%20great%20decision%20%0A_Here%20is%20why_%0A%20%0A*%3C%3E*%20Easily%20connect%20to%20other%20professionals%0A*%3C%3E*%20Make%20your%20self%20more%20visible%0A*%3C%3E*%20Find%20Inspiration</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="58" controlTypeID="__group__" x="721" y="174" w="200" h="140" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="58">
+          <controlProperties>
+            <size>16</size>
+            <text>*Did%20you%20know%20%3F*%0A%20%0AYou%20can%20import%20your%20profile%20information%20from</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="62" y="96" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="1" locked="false" isInGroup="58">
+          <controlProperties>
+            <color>545684</color>
+            <size>14</size>
+            <text>LinkedIn</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="59" controlTypeID="__group__" x="160" y="560" w="873" h="32" measuredW="873" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="873" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="59">
+          <controlProperties>
+            <color>10066329</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="41" y="4" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="1" locked="false" isInGroup="59">
+          <controlProperties>
+            <text>About</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="99" y="4" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="2" locked="false" isInGroup="59">
+          <controlProperties>
+            <text>User%20Agreement</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="212" y="4" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="3" locked="false" isInGroup="59">
+          <controlProperties>
+            <text>Privacy%20Policy</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="307" y="4" w="-1" h="-1" measuredW="31" measuredH="21" zOrder="4" locked="false" isInGroup="59">
+          <controlProperties>
+            <text>Help</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="680" y="4" w="184" h="21" measuredW="184" measuredH="21" zOrder="5" locked="false" isInGroup="59">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="184" measuredH="21" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>%20%A9%202014%20BlackProfessionals.net</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::TextInput" x="353" y="323" w="190" h="-1" measuredW="79" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="226" y="326" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Industry</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="__group__" x="226" y="445" w="320" h="57" measuredW="320" measuredH="57" zOrder="20" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="126" measuredH="21" zOrder="0" locked="false" isInGroup="62">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Cultural%20Background</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="128" y="0" w="190" h="-1" measuredW="167" measuredH="23" zOrder="1" locked="false" isInGroup="62">
+          <controlProperties>
+            <text>I%20do%20not%20wish%20to%20disclose</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="190" y="30" w="130" h="-1" measuredW="79" measuredH="27" zOrder="2" locked="false" isInGroup="62">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RadioButton" x="128" y="33" w="-1" h="-1" measuredW="55" measuredH="22" zOrder="3" locked="false" isInGroup="62">
+          <controlProperties>
+            <text>Other</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
