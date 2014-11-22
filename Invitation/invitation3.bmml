@@ -291,6 +291,7 @@
     <control controlID="44" controlTypeID="com.balsamiq.mockups::Canvas" x="102" y="0" w="890" h="849" measuredW="100" measuredH="70" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.75</backgroundAlpha>
+        <color>6710886</color>
       </controlProperties>
     </control>
     <control controlID="45" controlTypeID="com.balsamiq.mockups::FieldSet" x="299" y="155" w="485" h="464" measuredW="200" measuredH="170" zOrder="45" locked="false" isInGroup="-1">
