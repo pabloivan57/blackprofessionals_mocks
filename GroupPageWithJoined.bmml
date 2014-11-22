@@ -388,5 +388,12 @@
         </control>
       </groupChildrenDescriptors>
     </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Button" x="776" y="369" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>GroupPageWithJoined%26bm%3BGroupPageWithJoined.bmml%26bm%3BGroupPageWithJoined.bmml%26bm%3BGroupPageWithJoined.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22608%2C366%2C656%2C393%22%20href%3D%22GroupPageWithJoined.bmml%22%20alt%3D%22GroupPageWithJoined%22%20id%3D%2264%22/%3E</map>
+        <text>Post</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
