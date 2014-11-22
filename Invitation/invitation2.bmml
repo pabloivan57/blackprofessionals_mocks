@@ -177,6 +177,8 @@
         </control>
         <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="11" y="106" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="3" locked="false" isInGroup="122">
           <controlProperties>
+            <href>invitation3%26bm%3Binvitation3.bmml%26bm%3Binvitation3.bmml%26bm%3Binvitation3.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22682%2C385%2C737%2C412%22%20href%3D%22invitation3.bmml%22%20alt%3D%22invitation3%22%20id%3D%2212%22/%3E</map>
             <text>Invite</text>
           </controlProperties>
         </control>

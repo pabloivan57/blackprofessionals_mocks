@@ -253,11 +253,18 @@
         <text>Invite</text>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Button" x="514" y="489" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="59" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Button" x="599" y="487" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="59" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Invitation1%26bm%3BInvitation1.bmml%26bm%3BInvitation1.bmml%26bm%3BInvitation1.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22354%2C484%2C466%2C511%22%20href%3D%22Invitation1.bmml%22%20alt%3D%22Invitation1%22%20id%3D%2278%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22439%2C482%2C551%2C509%22%20href%3D%22Invitation1.bmml%22%20alt%3D%22Invitation1%22%20id%3D%2278%22/%3E</map>
         <text>Invite%20Selected</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Button" x="492" y="487" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Invitation1%26bm%3BInvitation1.bmml%26bm%3BInvitation1.bmml%26bm%3BInvitation1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22332%2C482%2C406%2C509%22%20href%3D%22Invitation1.bmml%22%20alt%3D%22Invitation1%22%20id%3D%2279%22/%3E</map>
+        <text>Invite%20All</text>
       </controlProperties>
     </control>
   </controls>
