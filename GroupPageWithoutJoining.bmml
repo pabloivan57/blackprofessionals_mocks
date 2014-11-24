@@ -19,6 +19,8 @@
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="746" y="180" w="-1" h="-1" measuredW="86" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>GroupPagePendingRequest%26bm%3BGroupPagePendingRequest.bmml%26bm%3BGroupPagePendingRequest.bmml%26bm%3BGroupPagePendingRequest.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22578%2C177%2C664%2C204%22%20href%3D%22GroupPagePendingRequest.bmml%22%20alt%3D%22GroupPagePendingRequest%22%20id%3D%2212%22/%3E</map>
         <text>Join%20Group</text>
       </controlProperties>
     </control>
@@ -59,10 +61,10 @@
             <text>Member</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="1" locked="false" isInGroup="21">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="1" locked="false" isInGroup="21">
           <controlProperties>
             <markup>true</markup>
-            <text>Discussion</text>
+            <text>Social%20feed</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
