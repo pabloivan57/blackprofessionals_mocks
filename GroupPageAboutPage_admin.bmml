@@ -11,23 +11,23 @@
         <text>Group%20picture</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="297" y="172" w="-1" h="-1" measuredW="156" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="297" y="172" w="-1" h="-1" measuredW="159" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
         <text>577a%20Group6%20BP.net%20group</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="738" y="180" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="738" y="180" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <href>GroupPageWithoutJoining%26bm%3BGroupPageWithoutJoining.bmml%26bm%3BGroupPageWithoutJoining.bmml%26bm%3BGroupPageWithoutJoining.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22570%2C177%2C631%2C204%22%20href%3D%22GroupPageWithoutJoining.bmml%22%20alt%3D%22GroupPageWithoutJoining%22%20id%3D%2210%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22570%2C177%2C632%2C204%22%20href%3D%22GroupPageWithoutJoining.bmml%22%20alt%3D%22GroupPageWithoutJoining%22%20id%3D%2210%22/%3E</map>
         <text>Joined</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="896" y="180" w="-1" h="-1" measuredW="85" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="896" y="180" w="-1" h="-1" measuredW="84" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <href>GroupPageEditGroupSetting%26bm%3BGroupPageEditGroupSetting.bmml%26bm%3BGroupPageEditGroupSetting.bmml%26bm%3BGroupPageEditGroupSetting.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22728%2C177%2C813%2C204%22%20href%3D%22GroupPageEditGroupSetting.bmml%22%20alt%3D%22GroupPageEditGroupSetting%22%20id%3D%2211%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22728%2C177%2C812%2C204%22%20href%3D%22GroupPageEditGroupSetting.bmml%22%20alt%3D%22GroupPageEditGroupSetting%22%20id%3D%2211%22/%3E</map>
         <text>Admin%20Edit</text>
       </controlProperties>
     </control>
@@ -50,7 +50,7 @@
         <text>The%20primary%20purpose%20of%20the%20BlackProfessional.net%20is%20to%20improve%20professional%20growth%20of%20people%20belonging%20African-American%20community.%20The%20BlackProfessional.net%20can%20let%20end-users%20%28individuals%20or%20companies%29%20create%20profiles%20to%20search%20or%20be%20searched%20easily%2C%20and%20provide%20messaging%20function%20to%20let%20end-users%20communicate%20with%20each%20other%20directly%20and%20easily.%20Besides%2C%20system%20can%20generate%20recommendations%20that%20either%20people%20whom%20end-users%20may%20know%20or%20companies%20which%20they%20may%20be%20interested%20in%20to%20increase%20end-users%u2019%20engagement%20opportunities.%20Furthermore%2C%20they%20can%20see%20the%20social%20feed%20from%20their%20friends%20or%20followed%20companies%20in%20the%20website%20and%20recent%20activity%20of%20them.%20The%20system%20can%20also%20let%20them%20invite%20their%20friends%20to%20join%20BlackProfessional.net%2C%20and%20companies%20can%20advertise%20on%20the%20website.</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="211" y="632" w="-1" h="-1" measuredW="85" measuredH="83" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="211" y="632" w="-1" h="-1" measuredW="94" measuredH="84" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%28o%29%20Aril%20Jain%20%0A%20%0A%20%0A%28%20%29%20Jerry%20Yang</text>
       </controlProperties>
@@ -69,14 +69,14 @@
         <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::Title" x="181" y="83" w="192" h="-1" measuredW="194" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Title" x="181" y="83" w="192" h="-1" measuredW="189" measuredH="26" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <size>18</size>
         <text>BlackProfessionals.net</text>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::SearchBox" x="402" y="81" w="273" h="-1" measuredW="265" measuredH="25" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::SearchBox" x="402" y="81" w="273" h="-1" measuredW="264" measuredH="25" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text>search%20for%20people%2C%20companies%20and%20more...</text>
       </controlProperties>
@@ -105,13 +105,13 @@
         <icon>SearchIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="944" y="81" w="66" h="23" measuredW="67" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="944" y="81" w="66" h="23" measuredW="65" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <size>11</size>
         <text>Sign%20Out</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::Link" x="702" y="86" w="-1" h="-1" measuredW="45" measuredH="16" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Link" x="702" y="86" w="-1" h="-1" measuredW="50" measuredH="17" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <size>10</size>
         <text>Advanced</text>
@@ -122,10 +122,10 @@
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::LinkBar" x="221" y="115" w="-1" h="-1" measuredW="246" measuredH="19" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::LinkBar" x="221" y="115" w="-1" h="-1" measuredW="258" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <size>13</size>
-        <text>Home%2C%20*Profile*%2C%20Connections%2C%20Groups</text>
+        <text>Home%2C%20Profile%2C%20Connections%2C%20*Groups*</text>
       </controlProperties>
     </control>
     <control controlID="34" controlTypeID="__group__" x="168" y="854" w="864" h="32" measuredW="864" measuredH="32" zOrder="28" locked="false" isInGroup="-1">
@@ -137,22 +137,22 @@
             <text/>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="41" y="6" w="35" h="-1" measuredW="35" measuredH="21" zOrder="1" locked="false" isInGroup="34">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="41" y="6" w="35" h="-1" measuredW="40" measuredH="21" zOrder="1" locked="false" isInGroup="34">
           <controlProperties>
             <text>About</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="98" y="6" w="97" h="-1" measuredW="98" measuredH="21" zOrder="2" locked="false" isInGroup="34">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="98" y="6" w="97" h="-1" measuredW="103" measuredH="21" zOrder="2" locked="false" isInGroup="34">
           <controlProperties>
             <text>User%20Agreement</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="210" y="6" w="79" h="-1" measuredW="80" measuredH="21" zOrder="3" locked="false" isInGroup="34">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="210" y="6" w="79" h="-1" measuredW="85" measuredH="21" zOrder="3" locked="false" isInGroup="34">
           <controlProperties>
             <text>Privacy%20Policy</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="304" y="6" w="27" h="-1" measuredW="27" measuredH="21" zOrder="4" locked="false" isInGroup="34">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="304" y="6" w="27" h="-1" measuredW="31" measuredH="21" zOrder="4" locked="false" isInGroup="34">
           <controlProperties>
             <text>Help</text>
           </controlProperties>
@@ -168,10 +168,10 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::Button" x="823" y="180" w="-1" h="-1" measuredW="58" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Button" x="823" y="180" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <href>GroupPageMember%26bm%3BGroupPageMember.bmml%26bm%3BGroupPageMember.bmml%26bm%3BGroupPageMember.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22655%2C177%2C713%2C204%22%20href%3D%22GroupPageMember.bmml%22%20alt%3D%22GroupPageMember%22%20id%3D%2235%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22655%2C177%2C714%2C204%22%20href%3D%22GroupPageMember.bmml%22%20alt%3D%22GroupPageMember%22%20id%3D%2235%22/%3E</map>
         <text>Group</text>
       </controlProperties>
     </control>

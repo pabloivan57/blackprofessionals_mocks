@@ -28,7 +28,9 @@
     <control controlID="61" controlTypeID="com.balsamiq.mockups::Icon" x="831" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
+        <href>Messaging_page%26bm%3BMessaging_page.bmml%26bm%3BMessaging_page.bmml%26bm%3BMessaging_page.bmml</href>
         <icon>GMailIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22671%2C77%2C695%2C101%22%20href%3D%22Messaging_page.bmml%22%20alt%3D%22Messaging_page%22%20id%3D%2261%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="62" controlTypeID="com.balsamiq.mockups::Icon" x="870" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
@@ -61,7 +63,7 @@
         <text>Advanced</text>
       </controlProperties>
     </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1013" y="137" w="-1" h="1037" measuredW="16" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1013" y="137" w="-1" h="1037" measuredW="16" measuredH="100" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <value>29</value>
       </controlProperties>
@@ -106,45 +108,45 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="71" controlTypeID="com.balsamiq.mockups::Webcam" x="216" y="173" w="-1" h="-1" measuredW="177" measuredH="146" zOrder="14" locked="false" isInGroup="-1"/>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::SubTitle" x="405" y="173" w="-1" h="-1" measuredW="132" measuredH="33" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Webcam" x="216" y="173" w="-1" h="-1" measuredW="177" measuredH="146" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::SubTitle" x="405" y="173" w="-1" h="-1" measuredW="132" measuredH="33" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <text>John%20Green</text>
       </controlProperties>
     </control>
-    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="411" y="201" w="-1" h="-1" measuredW="147" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="411" y="201" w="-1" h="-1" measuredW="147" measuredH="22" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>PhD%20Candidate%20at%20USC</text>
       </controlProperties>
     </control>
-    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="411" y="223" w="-1" h="-1" measuredW="272" measuredH="22" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="411" y="223" w="-1" h="-1" measuredW="272" measuredH="22" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>Los%20Angeles%2C%20California%20%7C%20%20Computer%20Science</text>
       </controlProperties>
     </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="411" y="270" w="-1" h="-1" measuredW="49" measuredH="18" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Label" x="411" y="270" w="-1" h="-1" measuredW="49" measuredH="18" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <color>3355443</color>
         <size>11</size>
         <text>Previous</text>
       </controlProperties>
     </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Label" x="506" y="269" w="-1" h="-1" measuredW="137" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Label" x="506" y="269" w="-1" h="-1" measuredW="137" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Mordor%20Software%20Corp.</text>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="411" y="289" w="-1" h="-1" measuredW="54" measuredH="18" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="411" y="289" w="-1" h="-1" measuredW="54" measuredH="18" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <color>3355443</color>
         <size>11</size>
         <text>Education</text>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="506" y="288" w="-1" h="-1" measuredW="188" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="506" y="288" w="-1" h="-1" measuredW="188" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>University%20of%20Southern%20California</text>
       </controlProperties>
@@ -157,75 +159,75 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::Canvas" x="777" y="159" w="227" h="185" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1"/>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Canvas" x="777" y="367" w="227" h="549" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1"/>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="825" y="169" w="130" h="-1" measuredW="130" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Canvas" x="777" y="159" w="227" h="185" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1"/>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Canvas" x="777" y="367" w="227" h="549" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="825" y="169" w="130" h="-1" measuredW="130" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <text>Recommended%20Users</text>
       </controlProperties>
     </control>
-    <control controlID="96" controlTypeID="com.balsamiq.mockups::HRule" x="777" y="533" w="227" h="-1" measuredW="100" measuredH="10" zOrder="28" locked="false" isInGroup="-1"/>
-    <control controlID="98" controlTypeID="com.balsamiq.mockups::HRule" x="777" y="720" w="227" h="-1" measuredW="100" measuredH="10" zOrder="29" locked="false" isInGroup="-1"/>
-    <control controlID="99" controlTypeID="com.balsamiq.mockups::HRule" x="777" y="817" w="227" h="-1" measuredW="100" measuredH="10" zOrder="30" locked="false" isInGroup="-1"/>
-    <control controlID="100" controlTypeID="com.balsamiq.mockups::LineChart" x="796" y="433" w="94" h="94" measuredW="187" measuredH="175" zOrder="31" locked="false" isInGroup="-1"/>
-    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="794" y="388" w="-1" h="-1" measuredW="204" measuredH="22" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::HRule" x="777" y="533" w="227" h="-1" measuredW="100" measuredH="10" zOrder="29" locked="false" isInGroup="-1"/>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::HRule" x="777" y="720" w="227" h="-1" measuredW="100" measuredH="10" zOrder="30" locked="false" isInGroup="-1"/>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::HRule" x="777" y="817" w="227" h="-1" measuredW="100" measuredH="10" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::LineChart" x="796" y="433" w="94" h="94" measuredW="187" measuredH="175" zOrder="32" locked="false" isInGroup="-1"/>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="794" y="388" w="-1" h="-1" measuredW="204" measuredH="22" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>Advertisement%20for%20Analytics%20Tool</text>
       </controlProperties>
     </control>
-    <control controlID="102" controlTypeID="com.balsamiq.mockups::Icon" x="792" y="597" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Icon" x="792" y="597" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CellPhoneIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="103" controlTypeID="com.balsamiq.mockups::Icon" x="840" y="657" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Icon" x="840" y="657" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CellPhoneIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="104" controlTypeID="com.balsamiq.mockups::Icon" x="792" y="664" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Icon" x="792" y="664" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CellPhoneIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="105" controlTypeID="com.balsamiq.mockups::Icon" x="946" y="653" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Icon" x="946" y="653" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CellPhoneIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="106" controlTypeID="com.balsamiq.mockups::Icon" x="946" y="597" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Icon" x="946" y="597" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CellPhoneIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="107" controlTypeID="com.balsamiq.mockups::HRule" x="813" y="606" w="133" h="-1" measuredW="100" measuredH="10" zOrder="38" locked="false" isInGroup="-1"/>
-    <control controlID="109" controlTypeID="com.balsamiq.mockups::VSlider" x="952" y="620" w="-1" h="-1" measuredW="11" measuredH="33" zOrder="39" locked="false" isInGroup="-1"/>
-    <control controlID="110" controlTypeID="com.balsamiq.mockups::HSlider" x="863" y="664" w="84" h="-1" measuredW="33" measuredH="11" zOrder="40" locked="false" isInGroup="-1"/>
-    <control controlID="111" controlTypeID="com.balsamiq.mockups::PointyButton" x="893" y="686" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::HRule" x="813" y="606" w="133" h="-1" measuredW="100" measuredH="10" zOrder="39" locked="false" isInGroup="-1"/>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::VSlider" x="952" y="620" w="-1" h="-1" measuredW="11" measuredH="33" zOrder="40" locked="false" isInGroup="-1"/>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::HSlider" x="863" y="664" w="84" h="-1" measuredW="33" measuredH="11" zOrder="41" locked="false" isInGroup="-1"/>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::PointyButton" x="893" y="686" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Apply%20Now</text>
       </controlProperties>
     </control>
-    <control controlID="112" controlTypeID="com.balsamiq.mockups::Label" x="792" y="550" w="-1" h="-1" measuredW="187" measuredH="22" zOrder="42" locked="false" isInGroup="-1">
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Label" x="792" y="550" w="-1" h="-1" measuredW="187" measuredH="22" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>A%20telecommunication%20company</text>
       </controlProperties>
     </control>
-    <control controlID="113" controlTypeID="com.balsamiq.mockups::VRule" x="802" y="624" w="-1" h="40" measuredW="10" measuredH="100" zOrder="43" locked="false" isInGroup="-1"/>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::TagCloud" x="792" y="745" w="197" h="57" measuredW="350" measuredH="110" zOrder="44" locked="false" isInGroup="-1">
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::VRule" x="802" y="624" w="-1" h="40" measuredW="10" measuredH="100" zOrder="44" locked="false" isInGroup="-1"/>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::TagCloud" x="792" y="745" w="197" h="57" measuredW="350" measuredH="110" zOrder="45" locked="false" isInGroup="-1">
       <controlProperties>
         <text>software%20statistics%20teaching%20%7Bcolor%3A%23FF0000%7Dtechnology%7Bcolor%7D%20tips%20tool%20tools%20toread%20travel%20tutorial%20tutorials%20tv%20twitter%20typography%20ubuntu%20usability%20video%20videos%20visualization%20web%20web%5C%202.0%20web%5C%20design%20webdev%20wiki%20windows%20wordpress%20work%20writing%20youtube</text>
       </controlProperties>
     </control>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::FieldSet" x="204" y="364" w="548" h="798" measuredW="200" measuredH="170" zOrder="45" locked="false" isInGroup="-1">
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::FieldSet" x="204" y="364" w="548" h="798" measuredW="200" measuredH="170" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
         <text>*Background*</text>
       </controlProperties>
     </control>
-    <control controlID="122" controlTypeID="com.balsamiq.mockups::Arrow" x="810" y="619" w="140" h="48" measuredW="150" measuredH="100" zOrder="46" locked="false" isInGroup="-1">
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Arrow" x="810" y="619" w="140" h="48" measuredW="150" measuredH="100" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <color>3355443</color>
@@ -234,29 +236,29 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="124" controlTypeID="com.balsamiq.mockups::Icon" x="216" y="386" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="47" locked="false" isInGroup="-1">
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Icon" x="216" y="386" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <icon>FileIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="248" y="394" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="48" locked="false" isInGroup="-1">
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="248" y="394" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="49" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>*Summary*</text>
       </controlProperties>
     </control>
-    <control controlID="127" controlTypeID="com.balsamiq.mockups::Paragraph" x="216" y="427" w="521" h="65" measuredW="200" measuredH="80" zOrder="49" locked="false" isInGroup="-1">
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Paragraph" x="216" y="427" w="521" h="65" measuredW="200" measuredH="80" zOrder="50" locked="false" isInGroup="-1">
       <controlProperties>
         <text>I%20am%20a%20Phd.%20student%20at%20USC%2C%20Los%20Angeles%20CA%2C%20writing%20my%20thesis%20on%20scope%20of%20Machine%20Learning%20in%20Health%20Care%20Sector.%20Professionally%2C%20I%20am%20interested%20in%20working%20on%20problems%20that%20deal%20with%20Machine%20Learning%2C%20Data%20Mining%2C%20Artificial%20Intelligence%20and%20allied%20fields.</text>
       </controlProperties>
     </control>
-    <control controlID="128" controlTypeID="com.balsamiq.mockups::HRule" x="228" y="484" w="498" h="-1" measuredW="100" measuredH="10" zOrder="50" locked="false" isInGroup="-1">
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::HRule" x="228" y="484" w="498" h="-1" measuredW="100" measuredH="10" zOrder="51" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.25</backgroundAlpha>
       </controlProperties>
     </control>
-    <control controlID="138" controlTypeID="__group__" x="792" y="202" w="191" h="42" measuredW="191" measuredH="42" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="138" controlTypeID="__group__" x="792" y="202" w="191" h="42" measuredW="191" measuredH="42" zOrder="28" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="4" w="44" h="36" measuredW="177" measuredH="146" zOrder="0" locked="false" isInGroup="138"/>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="48" y="28" w="65" h="14" measuredW="57" measuredH="27" zOrder="1" locked="false" isInGroup="138">
@@ -280,7 +282,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="139" controlTypeID="__group__" x="792" y="247" w="197" h="41" measuredW="197" measuredH="41" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="139" controlTypeID="__group__" x="792" y="247" w="197" h="41" measuredW="197" measuredH="41" zOrder="27" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="4" w="44" h="36" measuredW="177" measuredH="146" zOrder="0" locked="false" isInGroup="139"/>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="48" y="27" w="65" h="14" measuredW="57" measuredH="27" zOrder="1" locked="false" isInGroup="139">
@@ -304,7 +306,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="140" controlTypeID="__group__" x="792" y="292" w="213" h="44" measuredW="213" measuredH="44" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="140" controlTypeID="__group__" x="792" y="292" w="213" h="44" measuredW="213" measuredH="44" zOrder="26" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="4" w="44" h="36" measuredW="177" measuredH="146" zOrder="0" locked="false" isInGroup="140"/>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="48" y="30" w="65" h="14" measuredW="57" measuredH="27" zOrder="1" locked="false" isInGroup="140">
@@ -328,14 +330,14 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="141" controlTypeID="com.balsamiq.mockups::Button" x="664" y="332" w="-1" h="-1" measuredW="85" measuredH="27" zOrder="52" locked="false" isInGroup="-1">
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Button" x="664" y="332" w="-1" h="-1" measuredW="85" measuredH="27" zOrder="53" locked="false" isInGroup="-1">
       <controlProperties>
         <href>EditProfile%26bm%3BEditProfile.bmml%26bm%3BEditProfile.bmml%26bm%3BEditProfile.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22504%2C327%2C589%2C354%22%20href%3D%22EditProfile.bmml%22%20alt%3D%22EditProfile%22%20id%3D%22141%22/%3E</map>
         <text>Edit%20Profile</text>
       </controlProperties>
     </control>
-    <control controlID="149" controlTypeID="__group__" x="215" y="859" w="517" h="141" measuredW="517" measuredH="141" zOrder="54" locked="false" isInGroup="-1">
+    <control controlID="149" controlTypeID="__group__" x="215" y="859" w="517" h="141" measuredW="517" measuredH="141" zOrder="55" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="149">
           <controlProperties>
@@ -356,7 +358,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="150" controlTypeID="__group__" x="215" y="492" w="516" h="212" measuredW="516" measuredH="212" zOrder="53" locked="false" isInGroup="-1">
+    <control controlID="150" controlTypeID="__group__" x="215" y="492" w="516" h="212" measuredW="516" measuredH="212" zOrder="54" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="35" w="516" h="177" measuredW="200" measuredH="80" zOrder="0" locked="false" isInGroup="150">
           <controlProperties>
@@ -377,7 +379,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="151" controlTypeID="__group__" x="215" y="711" w="517" h="136" measuredW="517" measuredH="136" zOrder="51" locked="false" isInGroup="-1">
+    <control controlID="151" controlTypeID="__group__" x="215" y="711" w="517" h="136" measuredW="517" measuredH="136" zOrder="52" locked="false" isInGroup="-1">
       <controlProperties>
         <href>MyProfile_Company%26bm%3BMyProfile_Company.bmml%26bm%3BMyProfile_Company.bmml%26bm%3BMyProfile_Company.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C706%2C572%2C842%22%20href%3D%22MyProfile_Company.bmml%22%20alt%3D%22MyProfile_Company%22%20id%3D%22151%22/%3E</map>
@@ -402,7 +404,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="155" controlTypeID="__group__" x="215" y="1025" w="200" h="114" measuredW="200" measuredH="114" zOrder="55" locked="false" isInGroup="-1">
+    <control controlID="155" controlTypeID="__group__" x="215" y="1025" w="200" h="114" measuredW="200" measuredH="114" zOrder="56" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="155">
           <controlProperties>
@@ -423,31 +425,29 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="156" controlTypeID="__group__" x="162" y="113" w="871" h="26" measuredW="871" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="871" h="26" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="156">
-          <controlProperties>
-            <color>10066329</color>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="54" y="4" w="-1" h="-1" measuredW="258" measuredH="21" zOrder="1" locked="false" isInGroup="156">
-          <controlProperties>
-            <size>13</size>
-            <text>Home%2C%20*Profile*%2C%20Connections%2C%20Groups</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="157" controlTypeID="com.balsamiq.mockups::Label" x="411" y="251" w="-1" h="-1" measuredW="86" measuredH="18" zOrder="56" locked="false" isInGroup="-1">
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::Label" x="411" y="251" w="-1" h="-1" measuredW="86" measuredH="18" zOrder="57" locked="false" isInGroup="-1">
       <controlProperties>
         <color>3355443</color>
         <size>11</size>
         <text>Career%20Interest</text>
       </controlProperties>
     </control>
-    <control controlID="158" controlTypeID="com.balsamiq.mockups::Label" x="506" y="248" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="57" locked="false" isInGroup="-1">
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::Label" x="506" y="248" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="58" locked="false" isInGroup="-1">
       <controlProperties>
         <text>System%20Engineering</text>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::Canvas" x="162" y="113" w="871" h="26" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::LinkBar" x="216" y="117" w="-1" h="-1" measuredW="258" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>HomeLoggedIn%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml%2CMyProfile_Student%26bm%3BMyProfile_Student.bmml%26bm%3BMyProfile_Student.bmml%26bm%3BMyProfile_Student.bmml%2C%2CGrouplistgroup%26bm%3BGrouplistgroup.bmml%26bm%3BGrouplistgroup.bmml%26bm%3BGrouplistgroup.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2256%2C112%2C94%2C133%22%20href%3D%22HomeLoggedIn.bmml%22%20alt%3D%22HomeLoggedIn%22%20id%3D%22160_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C112%2C157%2C133%22%20href%3D%22MyProfile_Student.bmml%22%20alt%3D%22MyProfile_Student%22%20id%3D%22160_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22267%2C112%2C314%2C133%22%20href%3D%22Grouplistgroup.bmml%22%20alt%3D%22Grouplistgroup%22%20id%3D%22160_2%22/%3E%0A</map>
+        <size>13</size>
+        <text>Home%2C%20*Profile*%2C%20Connections%2C%20Groups</text>
       </controlProperties>
     </control>
   </controls>
