@@ -28,7 +28,9 @@
     <control controlID="61" controlTypeID="com.balsamiq.mockups::Icon" x="831" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
+        <href>Messaging_page%26bm%3BMessaging_page.bmml%26bm%3BMessaging_page.bmml%26bm%3BMessaging_page.bmml</href>
         <icon>GMailIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22671%2C77%2C695%2C101%22%20href%3D%22Messaging_page.bmml%22%20alt%3D%22Messaging_page%22%20id%3D%2261%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="62" controlTypeID="com.balsamiq.mockups::Icon" x="870" y="82" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
@@ -68,6 +70,8 @@
     </control>
     <control controlID="68" controlTypeID="com.balsamiq.mockups::LinkBar" x="216" y="117" w="-1" h="-1" measuredW="258" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>HomeLoggedIn%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml%26bm%3BHomeLoggedIn.bmml%2CMyProfile_Professional%26bm%3BMyProfile_Professional.bmml%26bm%3BMyProfile_Professional.bmml%26bm%3BMyProfile_Professional.bmml%2C%2CGrouplistgroup%26bm%3BGrouplistgroup.bmml%26bm%3BGrouplistgroup.bmml%26bm%3BGrouplistgroup.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2256%2C112%2C94%2C133%22%20href%3D%22HomeLoggedIn.bmml%22%20alt%3D%22HomeLoggedIn%22%20id%3D%2268_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C112%2C157%2C133%22%20href%3D%22MyProfile_Professional.bmml%22%20alt%3D%22MyProfile_Professional%22%20id%3D%2268_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22267%2C112%2C314%2C133%22%20href%3D%22Grouplistgroup.bmml%22%20alt%3D%22Grouplistgroup%22%20id%3D%2268_2%22/%3E%0A</map>
         <size>13</size>
         <text>Home%2C%20*Profile*%2C%20Connections%2C%20Groups</text>
       </controlProperties>
